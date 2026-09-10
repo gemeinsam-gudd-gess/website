@@ -1,8 +1,18 @@
 baseURL: https://www.gemeinsam-gudd-gess.de
 locale: de-de
 title: Gemeinsam Gudd Gess
-
 theme: "hugo-classless"
-
 params:
   theme: https://cdn.jsdelivr.net/gh/cspablocortez/cosmocss@latest/cosmo.min.css
+  
+menu:
+  main:
+    - name: "Startseite"
+      pageRef: "/"
+      weight: 10
+    - name: "Anmeldung"
+      pageRef: "/registration"
+      weight: 20
+    - name: "FAQ"
+      pageRef: "/faq"
+      weight: 30
