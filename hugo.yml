@@ -1,0 +1,11 @@
+baseURL: https://www.gemeinsam-gudd-gess.de
+locale: de-de
+title: Gemeinsam Gudd Gess
+
+theme: "hugo-classless"
+
+params:
+  # Single theme with dark mode support:
+  themeBase: "css/base.css"
+  themeLight: "css/light.css"
+  themeDark: "css/dark.css"
