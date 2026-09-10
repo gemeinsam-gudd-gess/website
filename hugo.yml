@@ -5,7 +5,4 @@ title: Gemeinsam Gudd Gess
 theme: "hugo-classless"
 
 params:
-  # Single theme with dark mode support:
-  themeBase: "css/base.css"
-  themeLight: "css/light.css"
-  themeDark: "css/dark.css"
+  theme: https://cdn.jsdelivr.net/gh/cspablocortez/cosmocss@latest/cosmo.min.css
