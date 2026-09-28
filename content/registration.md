@@ -8,7 +8,7 @@ Mit der Anmeldung erklärt ihr euch mit unseren [Teilnahmebedingungen](/imprint)
 
 #### Vorläufiger Anmeldeschluss
 
-Vorläufiger Anmeldeschluss ist der 26. September 2026. Teilnehmer:innen, die sich danach anmelden, kommen auf die Warteliste und können noch bei kurzfristigen Absagen einspringen.
+Vorläufiger Anmeldeschluss ist der 1. November 2026. Teilnehmer:innen, die sich danach anmelden, kommen auf die Warteliste und können noch bei kurzfristigen Absagen einspringen.
 
 #### Anmeldung als Team
 
