@@ -3,13 +3,18 @@ locale: de-de
 title: Gemeinsam Gudd Gess
 theme: "hugo-classless"
 params:
-  theme: https://cdn.jsdelivr.net/gh/cspablocortez/cosmocss@latest/cosmo.min.css
+  # Single theme with dark mode support:
+  themeBase: "css/styles.css"
+  faviconICO: "images/favicon.png"
   
 menu:
   main:
     - name: "Startseite"
       pageRef: "/"
       weight: 10
+    - name: "Was ist ein Running Dinner?"
+      pageRef: "/evening"
+      weight: 15
     - name: "Anmeldung"
       pageRef: "/registration"
       weight: 20
