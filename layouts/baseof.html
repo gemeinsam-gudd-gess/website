@@ -1,62 +1,17 @@
 <!doctype html>
-<html lang="de">
+<html lang="{{ site.Language.Lang }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Gemeinsam Gudd Gess: 3 Gänge, 3 Küchen, 1 Abend am 14. November 2026.">
-  <title>Gemeinsam Gudd Gess | Running Dinner</title>
-  <link rel="stylesheet" href="styles.css">
+  <meta name="description" content="{{ .Description }}">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
+  <link rel="stylesheet" href="{{ "styles.css" | relURL }}">
 </head>
 <body>
-  <header class="site-header">
-    <a class="brand" href="#start" aria-label="Gemeinsam Gudd Gess – Startseite">GEMEINSAM <span>GUDD GESS</span></a>
-    <nav aria-label="Hauptnavigation">
-      <a href="#idee">Die Idee</a>
-      <a href="#termin">Termin</a>
-      <a class="nav-cta" href="https://www.gemeinsam-gudd-gess.de/">Anmelden <span aria-hidden="true">↗</span></a>
-    </nav>
-  </header>
-
+  {{ partial "header.html" . }}
   <main id="start">
-    <section class="hero" aria-labelledby="hero-title">
-      <div class="hero-copy">
-        <p class="eyebrow">Running Dinner · 14. November 2026</p>
-        <h1 id="hero-title">Zusammen kochen.<br><em>Zusammen essen.</em></h1>
-        <p class="hero-lead">Drei Gänge. Drei Küchen. Ein Abend voller neuer Begegnungen.</p>
-        <a class="button" href="https://www.gemeinsam-gudd-gess.de/">Jetzt anmelden <span aria-hidden="true">↗</span></a>
-        <p class="deadline">Anmeldung bis 01.11.2026</p>
-      </div>
-      <div class="hero-art">
-        <img src="assets/hero-from-flyer.png" alt="Bunte Kochillustrationen rund um Gemeinsam Gudd Gess: Gemüse, Kochtopf und Menschen beim Essen.">
-      </div>
-    </section>
-
-    <section class="how" id="idee" aria-labelledby="how-title">
-      <div class="section-intro">
-        <p class="eyebrow">So funktioniert’s</p>
-        <h2 id="how-title">Ein Abend, drei Küchen.</h2>
-      </div>
-      <div class="steps">
-        <article class="step"><span class="number">01</span><h3>Gemeinsam kochen</h3><p>Ihr bekocht als Team andere Menschen.</p></article>
-        <article class="step"><span class="number">02</span><h3>Küchen entdecken</h3><p>Zwei Gänge gibt’s in anderen Küchen.</p></article>
-        <article class="step"><span class="number">03</span><h3>Zusammenkommen</h3><p>Gemeinsam essen und quatschen!</p></article>
-      </div>
-    </section>
-
-    <section class="event" id="termin" aria-labelledby="event-title">
-      <div>
-        <p class="eyebrow">Save the date</p>
-        <h2 id="event-title">14. November<br><span>ab 17 Uhr</span></h2>
-        <p>Melde dich bis zum 01.11.2026 an und sei dabei.</p>
-        <a class="button button-dark" href="https://www.gemeinsam-gudd-gess.de/">Zur Anmeldung <span aria-hidden="true">↗</span></a>
-      </div>
-      <div class="event-mark" aria-hidden="true">3<span>Gänge</span><b>1 Abend</b></div>
-    </section>
+    {{ block "main" . }}{{ end }}
   </main>
-
-  <footer>
-    <p>In Zusammenarbeit mit <strong>SAARBRÜCKEN</strong> <img src="assets/flyer-artwork.png" alt="Viertelbüro"></p>
-    <a href="https://www.gemeinsam-gudd-gess.de/">www.gemeinsam-gudd-gess.de</a>
-  </footer>
+  {{ partial "footer.html" . }}
 </body>
 </html>

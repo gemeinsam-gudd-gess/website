@@ -1,9 +1,9 @@
----
-title: "Anmeldung"
-draft: false
----
++++
+title = "Anmeldung"
+slug = "registration"
++++
 
-Mit der Anmeldung erklärt ihr euch mit unseren Teilnahmebedingungen (TODO) einverstanden.
+Mit der Anmeldung erklärt ihr euch mit unseren [Teilnahmebedingungen](/imprint) einverstanden.
 
 
 #### Vorläufiger Anmeldeschluss
@@ -39,8 +39,3 @@ Da die Anzahl der Teilnehmer:innen immer durch 6 teilbar sein muss, können wir 
 
 Um euch anzumelden, drückt einfach unten auf den Anmeldebutton und gebt auf der Anmeldeseite eure Daten an. Bitte beachtet, dass wir Anmeldungen mit Küche nur im Nauwieser Viertel annehmen können. Alle anderen Stadteile werden nur berücksichtigt, wenn es genügend Anmeldungen gibt. Wichtig: Anmeldungen OHNE Küche sind von überall möglich.
 
-----
-
-Die Anmeldung ist leider noch nicht freigeschaltet. Bitte schau nach dem 26. September nochmals vorbei. 
-
-----

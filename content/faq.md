@@ -1,7 +1,8 @@
----
-title: "FAQ"
-draft: false
----
++++
+title = "Häufige Fragen"
+slug = "faq"
++++
+
 
 #### Wer kann sich für Gemeinsam gudd Gess anmelden?
 

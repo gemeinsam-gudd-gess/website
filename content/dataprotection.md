@@ -1,9 +1,8 @@
----
-title: "Datenschutz"
-draft: false
----
++++
+title = "Datenschutzerklärung"
+slug = "dataprotection"
++++
 
-## Datenschutzerklärung
 
 ### 1. Datenschutz auf einen Blick
 

@@ -1,7 +1,7 @@
----
-title: "Was ist ein Running Dinner?"
-draft: false
----
++++
+title = "Ablauf"
+slug = "evening"
++++
 
 Gemeinsam Gudd Gess ist ein Running Dinner, das im Nauwieser Viertel stattfindet. Damit ihr einen Überblick bekommt, was euch erwartet, möchten wir euch hier über den Ablauf informieren. 
 
