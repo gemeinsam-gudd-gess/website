@@ -1,0 +1,10 @@
+<header class="site-header">
+  <a class="brand" href="{{ site.Home.RelPermalink }}" aria-label="Gemeinsam Gudd Gess – Startseite">Gemeinsam <span>Gudd</span> Gess</a>
+  <nav aria-label="Hauptnavigation">
+    {{ $current := .RelPermalink }}
+    {{ range slice (dict "path" "evening/" "label" "Der Abend") (dict "path" "faq/" "label" "FAQ") (dict "path" "registration/" "label" "Anmeldung" "class" "nav-cta") }}
+      {{ $url := .path | relURL }}
+      <a href="{{ $url }}"{{ with .class }} class="{{ . }}"{{ end }}{{ if eq $current $url }} aria-current="page"{{ end }}>{{ .label }}</a>
+    {{ end }}
+  </nav>
+</header>

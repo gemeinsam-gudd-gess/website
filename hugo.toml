@@ -1,0 +1,14 @@
+baseURL = "https://www.gemeinsam-gudd-gess.de/"
+languageCode = "de-DE"
+defaultContentLanguage = "de"
+title = "Gemeinsam Gudd Gess | Running Dinner"
+disableKinds = ["taxonomy", "term", "RSS"]
+
+[params]
+  registrationURL = "registration/"
+  registrationFormURL = "" # Set this to the actual registration form URL.
+  websiteLabel = "www.gemeinsam-gudd-gess.de"
+
+[module]
+  [module.hugoVersion]
+    min = "0.146.0"

@@ -1,0 +1,49 @@
+{{ define "main" }}
+  {{ $registrationURL := site.Params.registrationurl | relURL }}
+  {{ with .Params.hero }}
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="eyebrow">{{ .eyebrow }}</p>
+        <h1 id="hero-title">{{ .heading }}<br><em>{{ .accent }}</em></h1>
+        <p class="hero-lead">{{ .lead }}</p>
+        <a class="button" href="{{ $registrationURL }}">{{ .button }} <span aria-hidden="true">↗</span></a>
+        <p class="deadline">{{ .deadline }}</p>
+      </div>
+      <div class="hero-art">
+        <img src="{{ .image | relURL }}" alt="{{ .imagealt }}">
+      </div>
+    </section>
+  {{ end }}
+
+  <section class="how" id="idee" aria-labelledby="how-title">
+    {{ with .Params.how }}
+      <div class="section-intro">
+        <p class="eyebrow">{{ .eyebrow }}</p>
+        <h2 id="how-title">{{ .heading }}</h2>
+      </div>
+    {{ end }}
+    <div class="steps">
+      {{ range .Params.steps }}
+        <article class="step">
+          <span class="number">{{ .number }}</span>
+          <h3>{{ .title }}</h3>
+          <p>{{ .text }}</p>
+        </article>
+      {{ end }}
+    </div>
+  </section>
+
+  {{ with .Params.event }}
+    <section class="event" id="termin" aria-labelledby="event-title">
+      <div>
+        <p class="eyebrow">{{ .eyebrow }}</p>
+        <h2 id="event-title">{{ .date }}<br><span>{{ .time }}</span></h2>
+        <p>{{ .text }}</p>
+        <a class="button button-dark" href="{{ $registrationURL }}">{{ .button }} <span aria-hidden="true">↗</span></a>
+      </div>
+      <div class="event-mark" aria-hidden="true">
+        {{ .count }}<span>{{ .courses }}</span><b>{{ .evening }}</b>
+      </div>
+    </section>
+  {{ end }}
+{{ end }}

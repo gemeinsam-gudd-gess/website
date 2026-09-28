@@ -1,0 +1,43 @@
+{{ define "main" }}
+  {{ $artwork := dict
+    "registration" (slice "carrot" "mixing-bowl-and-whisk" "spring-onion")
+    "evening" (slice "cooking-pot" "people-dining" "rolling-pin")
+    "faq" (slice "oven-mitt" "red-cabbage" "carrot")
+    "imprint" (slice "spring-onion" "mixing-bowl-and-whisk" "lettuce")
+    "dataprotection" (slice "lettuce" "rolling-pin" "cooking-pot")
+  }}
+  {{ $elements := index $artwork .File.ContentBaseName | default (slice "carrot" "cooking-pot" "oven-mitt") }}
+  <div class="decorated-page">
+    <div class="page-artwork" aria-hidden="true">
+      {{ range $index, $element := $elements }}
+        <img
+          class="page-artwork-item page-artwork-item-{{ $index }}"
+          src="{{ printf "assets/elements/%s.png" $element | relURL }}"
+          alt=""
+          decoding="async"
+          draggable="false"
+        >
+      {{ end }}
+    </div>
+    <article class="content-page">
+      <header class="page-heading">
+        <a class="back-link" href="{{ site.Home.RelPermalink }}">← Startseite</a>
+        <h1>{{ .Title }}</h1>
+        <p>{{ .Description }}</p>
+      </header>
+      <div class="page-body">
+        {{ .Content }}
+        {{ if eq .File.ContentBaseName "registration" }}
+          <section class="registration-panel" aria-labelledby="registration-heading">
+            <h2 id="registration-heading">Anmelden</h2>
+            {{ with site.Params.registrationformurl }}
+              <a class="button" href="{{ . | relURL }}">Anmeldeformular öffnen <span aria-hidden="true">↗</span></a>
+            {{ else }}
+              <p>Die Anmeldung ist leider noch nicht freigeschaltet. Bitte schau Anfang Oktober nochmals vorbei.</p>
+            {{ end }}
+          </section>
+        {{ end }}
+      </div>
+    </article>
+  </div>
+{{ end }}
