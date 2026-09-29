@@ -18,7 +18,7 @@ Ein Gang wird euch zugelost, den ihr dann für eure Gäste an der von euch gewä
 
 Etwa eine Woche vor dem Event informieren wir euch per Mail über den konkreten Ablauf und darüber, welche anderen Teams ihr beim Essen kennenlernen werdet. Dabei erfahrt ihr auch die Unverträglichkeiten und Präferenzen eurer Gäste.
 
-## Warteliste
+### Warteliste
 
 Um besser Teams planen zu können, landet auch ein Teil der rechtzeitigen Anmeldungen erstmal auf einer Warteliste. Sollte das bei euch der Fall sein, bekommt ihr von uns eine entsprechende Mail. Es ist trotzdem sehr wahrscheinlich, das ihr teilnehmen könnt, allerdings können wir euch möglicherweise erst kurzfristig zusagen. 
 
