@@ -45,7 +45,7 @@ Anmeldeschluss ist eine Woche vor dem Event. Ihr könnt aber auch danach noch pr
 
 #### Was passiert nach dem Dessert?
 
-Wir freuen uns auch dieses Jahr wieder auf ein tolles Get-Together mit euch, diesmal in der Kulturei bei der Zitadelle (Nähe Bahnhof Römisches Theater). Dort habt ihr die Möglichkeit, eure neuen Bekanntschaften wieder zu treffen und nochmal ganz neue Leute kennenzulernen.
+Nach dem Dessert könnt ihr gerne noch zusammen mit euren neuen Bekanntschaften die Kneipen im Nauwieser Viertel erkunden.
 
 #### Was ist, wenn ich auf der Warteliste stehe?
 
