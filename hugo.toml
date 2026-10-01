@@ -6,7 +6,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
 
 [params]
   registrationURL = "registration/"
-  registrationFormURL = "" # Set this to the actual registration form URL.
+  registrationFormURL = "https://runyourdinner.eu/running-dinner-events/TR94TTPMWS" # Set this to the actual registration form URL.
   websiteLabel = "www.gemeinsam-gudd-gess.de"
 
 [module]
