@@ -9,7 +9,7 @@ Gemeinsam Gudd Gess ist ein Running Dinner, das im Nauwieser Viertel stattfindet
 
 Ihr könnt euch entweder allein oder mit einem/einer Kochpartner:in anmelden. Im Falle einer Einzelanmeldung wird euch ein Partner zugelost.
 
-Über den Abend verteilt nehmt ihr an drei Gängen – Vorspeise, Hauptspeise und Nachspeise – teil, die in Abständen von 105 Minuten stattfinden. Dabei trefft ihr jeweils zwei weitere, jedoch immer unterschiedliche Teams. So habt ihr die Möglichkeit, im Laufe des Abends bis zu 12 neue Menschen kennenzulernen.
+Über den Abend verteilt nehmt ihr an drei Gängen – Vorspeise, Hauptspeise und Nachspeise – teil, die in Abständen von 90-105 Minuten stattfinden. Dabei trefft ihr jeweils zwei weitere, jedoch immer unterschiedliche Teams. So habt ihr die Möglichkeit, im Laufe des Abends bis zu 12 neue Menschen kennenzulernen.
 
 Ein Gang wird euch zugelost, den ihr dann für eure Gäste an der von euch gewählten Adresse zubereitet. Bei den zwei anderen Gängen seid ihr dann die Gäste.
 
@@ -27,7 +27,7 @@ Um besser Teams planen zu können, landet auch ein Teil der rechtzeitigen Anmeld
 
 Bereitet frühzeitig und möglichst vollständig euren Gang vor, sodass ihr abends ausreichend Zeit für eure Gäste habt. Achtet bei der Wahl eures Gerichts besonders auf die Unverträglichkeiten und Essgewohnheiten eurer Gäste. Diese wurden euch bis dahin per E-Mail mitgeteilt.
 
-Fahrt rechtzeitig los, sodass ihr um 17:00 Uhr pünktlich bei eurem ersten Gastgeber seid. Brecht rechtzeitig zu euren weiteren Gängen auf. 
+Fahrt rechtzeitig los, sodass ihr um 17:30 Uhr pünktlich bei eurem ersten Gastgeber seid. Brecht rechtzeitig zu euren weiteren Gängen auf. 
 
 Der zeitliche Ablauf sieht wie folgt aus:
 
