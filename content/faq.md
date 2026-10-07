@@ -55,12 +55,12 @@ Um besser planen zu können, landet auch ein Teil der rechtzeitigen Anmeldungen 
 
 Das ist natürlich schade. Bitte bedenke bei deiner Anmeldung bzw. Absage, dass Gemeinsam Gudd Gess immer nur in festen Konstellationen „aufgeht“. Sollten wir kurzfristig keinen Ersatz mehr finden, würde für deine Gäste ein Gang ausfallen. Kurzfristiges Umorganisieren ist leider auch mit großem Aufwand für unser Team verbunden.
 
-Nichtsdestotrotz: Es kann natürlich immer etwas dazwischen kommen. Um noch Ersatz finden zu können, gib uns auf jeden Fall so früh wie möglich via Mail (info@gemeinsam-gudd-gess.de) Bescheid, damit wir noch jemanden für deine:n Partner:in finden können und dieser/diese trotzdem teilnehmen kann.
+Nichtsdestotrotz: Es kann natürlich immer etwas dazwischen kommen. Um noch Ersatz finden zu können, gib uns auf jeden Fall so früh wie möglich via Mail (gemeinsam-gudd-gess@gmx.net) Bescheid, damit wir noch jemanden für deine:n Partner:in finden können und dieser/diese trotzdem teilnehmen kann.
 
 #### An wen wende ich mich bei Fragen, oder wenn ich kurzfristig absagen muss?
 
-Schreib uns gern via Mail an: info@gemeinsam-gudd-gess.de
+Schreib uns gern via Mail an: gemeinsam-gudd-gess@gmx.net
 
 #### Ist das Event barrierefrei?
 
-Wir können keine allgemeine Barrierefreiheit garantieren. Solltet ihr dahingehend einen Bedarf haben, schreibt uns gern via Mail an: info@gemeinsam-gudd-gess.de. Wir versuchen euch die Teilnahme zu ermöglichen. Bitte gebt auch bei der Anmeldung an, was genau ihr braucht (z.B. eine Begleitung, barrierefreier Zugang zu Wohnungen, etc.).
+Wir können keine allgemeine Barrierefreiheit garantieren. Solltet ihr dahingehend einen Bedarf haben, schreibt uns gern via Mail an: gemeinsam-gudd-gess@gmx.net . Wir versuchen euch die Teilnahme zu ermöglichen. Bitte gebt auch bei der Anmeldung an, was genau ihr braucht (z.B. eine Begleitung, barrierefreier Zugang zu Wohnungen, etc.).
