@@ -23,7 +23,7 @@ Kurz nach der Anmeldung erhaltet ihr eine Bestätigungsmail. Bitte habt Verstän
 
 2. Voraussichtlich am Mittwochabend erhaltet ihr die Adressen eurer Gastgeber:innen für die anderen Gänge und zu Unverträglichkeiten/Allergien Bescheid - ab dann könnt ihr euren genauen Gang planen.
 
-Ansonsten könnt ihr uns für Fragen jederzeit per Mail (info@gemeinsam-gudd-gess.de) kontaktieren.
+Ansonsten könnt ihr uns für Fragen jederzeit per Mail (gemeinsam-gudd-gess@gmx.net) kontaktieren.
 
 
 #### Strecken und Routen
