@@ -5,7 +5,7 @@ slug = "imprint"
 
 ### Kontakt
 
-Anfragen zum Running Dinner bitte an: info@gemeinsam-gudd-gess.de
+Anfragen zum Running Dinner bitte an: gemeinsam-gudd-gess@gmx.net
 
 ### Impressum
 
