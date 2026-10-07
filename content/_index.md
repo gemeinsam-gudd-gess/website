@@ -15,7 +15,7 @@ description = "Willkommen bei Gemeinsam Gudd Gess, einem Running Dinner durch Sa
 
 [[steps]]
   number = "Wer?"
-  text = "Gemeinsam Gudd Gess ist eine Veranstaltung für alle Saarbrigger & Friends! Organisiert wird es von einem ehrenamtlichen Team. Bei Fragen, melde dich gerne bei info@gemeinsam-gudd-gess.de"
+  text = "Gemeinsam Gudd Gess ist eine Veranstaltung für alle Saarbrigger & Friends! Organisiert wird es von einem ehrenamtlichen Team. Bei Fragen, melde dich gerne bei gemeinsam-gudd-gess@gmx.net"
 
 [[steps]]
   number = "Wann?"
