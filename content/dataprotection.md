@@ -78,7 +78,7 @@ Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
 Ji-Ung Lee
 
-E-Mail: info@gemeinsam-gudd-gess.de
+E-Mail: gemeinsam-gudd-gess@gmx.net
 Addresse: via E-Mail
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
