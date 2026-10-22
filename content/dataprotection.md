@@ -142,7 +142,30 @@ Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, 
 
 Diese Website wurde mit Github Pages erstellt. Mit der Nutzung der Website erklären Sie sich mit Cookies einverstanden die Github bzw. Microsoft ggf. einsetzt, sofern sie diese nicht über einen Button im entsprechenden Cookie-Popup-Fenster abgelehnt haben.
 
-#### Anmeldeformular und Registrierung zur Veranstaltung "Gemeinsam Gudd Gess"
+### 5. Soziale Medien
+
+#### Instagram
+
+Auf dieser Website sind Funktionen des Dienstes Instagram eingebunden. Diese Funktionen werden angeboten durch die Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland.
+
+Wenn das Social-Media-Element aktiv ist, wird eine direkte Verbindung zwischen Ihrem Endgerät und dem Instagram-Server hergestellt. Instagram erhält dadurch Informationen über den Besuch dieser Website durch Sie.
+
+Wenn Sie in Ihrem Instagram-Account eingeloggt sind, können Sie durch Anklicken des Instagram-Buttons die Inhalte dieser Website mit Ihrem Instagram-Profil verlinken. Dadurch kann Instagram den Besuch dieser Website Ihrem Benutzerkonto zuordnen. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Instagram erhalten.
+
+Soweit eine Einwilligung (Consent) eingeholt wurde, erfolgt der Einsatz des o. g. Dienstes auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO und § 25 TTDSG. Die Einwilligung ist jederzeit widerrufbar. Soweit keine Einwilligung eingeholt wurde, erfolgt die Verwendung des Dienstes auf Grundlage unseres berechtigten Interesses an einer möglichst umfassenden Sichtbarkeit in den Sozialen Medien.
+
+Soweit mit Hilfe des hier beschriebenen Tools personenbezogene Daten auf unserer Website erfasst und an Facebook bzw. Instagram weitergeleitet werden, sind wir und die Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland gemeinsam für diese Datenverarbeitung verantwortlich (Art. 26 DSGVO). Die gemeinsame Verantwortlichkeit beschränkt sich dabei ausschließlich auf die Erfassung der Daten und deren Weitergabe an Facebook bzw. Instagram. Die nach der Weiterleitung erfolgende Verarbeitung durch Facebook bzw. Instagram ist nicht Teil der gemeinsamen Verantwortung. Die uns gemeinsam obliegenden Verpflichtungen wurden in einer Vereinbarung über gemeinsame Verarbeitung festgehalten. Den Wortlaut der Vereinbarung finden Sie unter: https://www.facebook.com/legal/controller_addendum. Laut dieser Vereinbarung sind wir für die Erteilung der Datenschutzinformationen beim Einsatz des Facebook- bzw. Instagram-Tools und für die datenschutzrechtlich sichere Implementierung des Tools auf unserer Website verantwortlich. Für die Datensicherheit der Facebook bzw. Instagram-Produkte ist Facebook verantwortlich. Betroffenenrechte (z. B. Auskunftsersuchen) hinsichtlich der bei Facebook bzw. Instagram verarbeiteten Daten können Sie direkt bei Facebook geltend machen. Wenn Sie die Betroffenenrechte bei uns geltend machen, sind wir verpflichtet, diese an Facebook weiterzuleiten.
+
+Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier:
+
+https://www.facebook.com/legal/EU_data_transfer_addendum, 
+
+https://help.instagram.com/519522125107875 und https://de-de.facebook.com/help/566994660333381.
+
+Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von Instagram: https://instagram.com/about/legal/privacy/.
+
+### Anmeldeformular und Registrierung zur Veranstaltung "Gemeinsam Gudd Gess"
 
 Zur Generierung von Routen nutzen wir die Plattform Run Your Dinner. Mit der Anmeldung (mit Klick auf einen der Buttons auf der Seite "anmelden") und der Eingabe der personenbezogenen Daten auf der verlinkten Website runyourdinner.eu erklären sie sich mit den Bestimmungen von runyourdinner.eu einverstanden, sowie mit folgenden Bestimmungen zu der Verarbeitung der Daten durch uns: 
 Über die Datenverarbeitung mit der Plattform "Runyourdinner" hinaus werden ggf. auch personenbezogene Daten offline zwischengespeichert. Diese werden ausschließlich zum Planen und Vermitteln von "Dinners" (also den privaten Kleinveranstaltungen) sowie der Kontaktaufnahme zur Vorbereitung der Dinners und der Bereitstellung von Informationen zum Get-together genutzt. Die erhobenen Daten werden spätestens nach einem Monat, in der Regel aber unmittelbar nach dem Event dauerhaft gelöscht. 
+
