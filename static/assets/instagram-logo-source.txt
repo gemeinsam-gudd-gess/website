@@ -1,0 +1,6 @@
+Official Instagram gradient glyph, downloaded from Meta’s Brand Resource Center.
+Source: https://www.meta.com/brand/resources/instagram/instagram-brand/
+Archive: IG_brand_asset_pack_2023.zip
+Asset: 01 Static Glyph/01 Gradient Glyph/Instagram_Glyph_Gradient.png
+The PNG is used unchanged; display size is set in HTML/CSS.
+SHA-256: 21f86b55f986848665ce54ab354ff6b43b7705e6c421d90c04369882b5956766
