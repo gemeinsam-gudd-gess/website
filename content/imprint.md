@@ -7,6 +7,8 @@ slug = "imprint"
 
 Anfragen zum Running Dinner bitte an: gemeinsam-gudd-gess@gmx.net
 
+Per Instagram: https://www.instagram.com/gemeinsam.gudd.gess/
+
 ### Impressum
 
 ##### Angaben gemäß § 5 DDG
