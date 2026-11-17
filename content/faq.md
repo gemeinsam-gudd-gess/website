@@ -41,7 +41,7 @@ Solltet ihr dann noch etwas übrig haben und das Projekt finanziell unterstütze
 
 #### Wann ist Anmeldeschluss?
 
-Anmeldeschluss ist der 1.November. Ihr könnt aber auch danach noch probieren, kurzfristig einen Platz über die Nachrückerliste zu erhalten.
+Anmeldeschluss ist (wird noch bekannt gegeben). Ihr könnt aber auch danach noch probieren, kurzfristig einen Platz über die Nachrückerliste zu erhalten.
 
 #### Was passiert nach dem Dessert?
 
