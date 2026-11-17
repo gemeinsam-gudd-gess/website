@@ -6,7 +6,7 @@ description = "Willkommen bei Gemeinsam Gudd Gess, einem Running Dinner durch Sa
   eyebrow = "Willkommen bei Gemeinsam Gudd Gess, einem Running Dinner durch Saarbrücken!"
   lead = "Zwölf neue Bekanntschaften, ein leckeres Drei-Gänge-Menü sowie ein mit Sicherheit unvergesslicher Abend. Einen von drei Gängen bereitest Du mit deinem/deiner Teampartner:in in eurer Küche vor – die anderen beiden bekommt ihr serviert. So kommen immer sechs verschiedene Personen zusammen. Ihr habt genügend Zeit zum Quatschen, Essen und um zum nächsten Gang zu kommen. "
   button = "Zur Anmeldung"
-  deadline = "Anmeldung (alleine oder als Zweier-Team) bis zum 01.11.2026 "
+  deadline = "Die Anmeldung ist aktuell geschlossen. "
   image = "assets/hero-from-flyer.png"
   imageAlt = "Bunte Kochillustrationen rund um Gemeinsam Gudd Gess: Gemüse, Kochtopf und Menschen beim Essen."
 
@@ -19,7 +19,7 @@ description = "Willkommen bei Gemeinsam Gudd Gess, einem Running Dinner durch Sa
 
 [[steps]]
   number = "Wann?"
-  text = "Gemeinsam Gudd Gess findet am 14. November 2026 statt. Schreib uns gerne eine E-Mail oder folge uns auf Instagram, um informiert zu bleiben."
+  text = "Vorraussichtlich im Frühjahr 2027. Schreib uns gerne eine E-Mail oder folge uns auf Instagram, um informiert zu bleiben."
 
 [[steps]]
   number = "Wo?"
